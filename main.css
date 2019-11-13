@@ -7,12 +7,23 @@
   }
   
   /* Task 1 */
-  
+  h3 {
+    color: blue;
+  }
   /* Task 2 */
-  
+  .item-three, .item-five {
+    color: red;
+  }
   /* Task 3 */
-  
+  .image + img{
+    border: 2px solid blue;
+  }
   /* Task 4 */
-  
+  ul:last-child li:last-child {
+    background-color: yellow;
+    color: black;
+  }
   /* Task 5 */
-  
+  ul li:last-child {
+    color: pink;
+  }
